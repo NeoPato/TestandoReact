@@ -7,7 +7,7 @@ export default function Menu() {
                 <a href={'/'}>Home</a>
             </p>
             <p>
-                <a href="">Calculations</a>
+                <a href="/calc">Calculations</a>
             </p>
             <p>
                 <a href={'/tec'}>Tecnologies</a>
@@ -15,6 +15,7 @@ export default function Menu() {
             <p>
                 <a href={'/contact'}>Contact</a>
             </p>
+            
         </div>
     )
 }

@@ -13,7 +13,7 @@ import style from "./Contact.module.css"
 export const Contact = () => {
     const geoData = ({lat: -25.3718243, lng: -49.2161051})
 
-    const defaultPhoneNumber = '5541999999999'
+    const defaultPhoneNumber = '5541984666011'
 
     const [formData, setFormData] = useState({
         name: '',
